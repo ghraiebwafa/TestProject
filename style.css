@@ -1,0 +1,413 @@
+@import url();
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    position: absolute;
+    width: 1535px;
+    height: 84px;
+    left: 0px;
+    top: 0px;
+    
+    background: #00BDE7;
+}
+ .freepik {
+    position: absolute;
+width: 60px;
+height: 60px;
+left: 100px;
+top: 11px;
+
+background: url(freepik.png);
+}
+.name{
+    position: absolute;
+width: 98px;
+height: 20px;
+left: 166px;
+top: 31px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+.Rectangle2{
+    position: absolute;
+width: 80px;
+height: 40px;
+left: 589px;
+top: 21px;
+
+background: #FFFFFF;
+border-radius: 10px;
+}
+.home{
+    position: absolute;
+    width: 48px;
+    height: 33px;
+    left: 20px;
+    top: 13px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    text-decoration-line: underline;
+    
+    color: #00BDE7;
+    }
+.about{
+    position: absolute;
+width: 49px;
+height: 33px;
+left: 697px;
+top: 32px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+
+color: #FFFFFF;
+}
+.products{
+    position: absolute;
+width: 76px;
+height: 33px;
+left: 774px;
+top: 33px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+
+color: #FFFFFF;
+}
+input {
+    position: absolute;
+    left: 82.29%;
+    top: 24px;
+    width: 317px;
+    height: 36px;
+    border-radius: 8px;
+    margin-left: -59px;
+    background-color: #00BDE7;
+    border: #FFFFFF 1px;
+    padding-left: 34px;
+    
+}
+::placeholder {
+    color: white;
+}
+.fix {
+    border-radius: 8px;
+    margin-left: -1px;
+    width: 325px;
+    height: 40.4px;
+    position: absolute;
+    left: 78.18%;
+    top: 22px;
+    background-color: #FFFFFF;
+}
+.search-input {
+   
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 79%;
+    top: 33px;
+}
+.part1 {
+    background-color: #00BDE7;
+    margin: -8px;
+    width: 1545px;
+    height: 565px;
+    
+}
+
+
+.title1 {
+    position: absolute;
+width: 659px;
+height: 126px;
+left: 100px;
+top: 187px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 18px;
+/* or 28% */
+
+
+color: #FFFFFF;
+}
+.title2{
+    margin-top: 7%;
+}
+
+.img1 {
+    position: absolute;
+width: 350px;
+height: 334px;
+left: 1116px;
+top: 119px;
+border-radius: 50%;
+background: #FFFFFF;
+}
+.img11 {
+   position: absolute;
+   top:  4%;
+   left: 4%;
+   z-index: 3;
+}
+.btn {
+    
+    position: absolute;
+    width: 281px;
+    height: 77px;
+    left: 100px;
+    top: 326px;
+    
+    background: #FFFFFF;
+    border-radius: 12px;
+
+}
+.enroll {
+    
+    position: absolute;
+    width: 197px;
+    height: 21px;
+    left: 142px;
+    top: 354px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 18px;
+    /* or 50% */
+    
+    
+    color: #00BDE7;
+    
+    
+}
+.offre{
+    position: absolute;
+width: 336px;
+height: 77px;
+left: calc(50% - 336px/2);
+top: 590px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 18px;
+/* or 28% */
+
+
+color: #00BDE7;
+}
+.rect1{
+    position: absolute;
+width: 369.63px;
+height: 332.7px;
+
+background: #00D1F7;
+border-radius: 40px;
+left: calc(32% - 336px/2);
+top: 700px;
+}
+.rect11{
+    position: absolute;
+width: 373px;
+height: 145px;
+
+background: #FFFFFF;
+left: calc(45% - 336px/2);
+top: 100px;
+
+}
+.react1{
+    position: absolute;
+    left: 125px;
+    top:30px;
+}
+.textReact{
+    color:#0f1415;
+    
+}
+.rect2{
+    position: absolute;
+width: 369.63px;
+height: 335.97px;
+
+background: #60AE50;
+border-radius: 40px;
+left: calc(68% - 336px/2);
+top: 700px;
+}
+.rect22{
+    position: absolute;
+width: 377px;
+height: 145px;
+left: calc(45% - 336px/2);
+top: 100px;
+background: url(./img/node.png);
+}
+.react{
+    position: absolute;
+width: 200px;
+height: 44px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 64px;
+line-height: 18px;
+/* or 28% */
+
+
+color: #00BDE7;
+}
+.partie3 {
+    position: absolute;
+    width: 1550px;
+    height: 450px;
+    left: 0px;
+    top: 1273px;
+    /* overflow-x: hidden; */
+
+
+    background: #DDDDDD;
+}
+.categories {
+    margin-top: 3.8%;
+    width: 100%;
+    height: 100%;
+    
+}
+.pic {
+    position: absolute;
+width: 128px;
+height: 128px;
+left: 1150px;
+top: 30px;
+
+background: url(./img/photo-1633332755192-727a05c4013d\ 1.png);
+border-radius: 64px;
+}
+.iyed {
+    
+position: absolute;
+width: 108px;
+height: 44px;
+left: 281px;
+    top: 164px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+/* or 120% */
+
+
+color: #000000;
+}
+.just {
+        position: absolute;
+    width: 318px;
+    height: 150px;
+    left: 171px;
+    top: 227px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #868686;
+}
+.pic1 {
+    position: absolute;
+width: 128px;
+height: 128px;
+left: 750px;
+top: 30px;
+
+background: url(./img/photo-1633332755192-727a05c4013d\ 1.png);
+border-radius: 64px;
+position: absolute;
+
+}
+.t2 {
+    position: absolute;
+    left: 770px;
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+}
+.justTwo {
+    left: 665px;
+}
+.pic2 {
+    position: absolute;
+    left:260px;
+    top: 30px;
+}
+.Ithree {
+    
+    position: absolute;
+    width: 108px;
+    height: 44px;
+    left: 1177px;
+        top: 164px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    /* or 120% */
+    
+    
+    color: #000000;
+    }
+    .justThree {
+        position: absolute;
+        width: 318px;
+        height: 150px;
+        left: 1080px;
+        top: 227px;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        text-align: center;
+        color: #868686;
+        background-color: url("/img/photo-1633332755192-727a05c4013d\ 1.png");
+    }
+    footer {
+        text-align:center;
+       
+        color: #000;
+    }
